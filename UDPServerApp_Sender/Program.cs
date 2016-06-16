@@ -1,19 +1,20 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Runtime.Serialization.Formatters.Binary;
-using System.Text;
-using System.Threading.Tasks;
 using UDPServerApp_Listener;
 
 
 namespace UDPServerApp_Sender
 {
-    
+    /*simple application for creating of 
+     * data to send it to main application.
+     * The object of class TempData is created here
+     * with dummy data, then it should br serialised 
+     * and sent to localhost address and specific port
+     * of the main Listener application.     
+    */
     class Program
     {       
         static void Main(string[] args)
@@ -36,12 +37,6 @@ namespace UDPServerApp_Sender
                     data = ms.ToArray();
                 }
                 sender.Send(data, data.Length, new IPEndPoint(IPAddress.Parse("127.0.0.1"), 5000));
-                //while (true)
-                //{
-                //    string message = Console.ReadLine();
-                //    byte[] data = Encoding.Unicode.GetBytes(message);
-                //    sender.Send(data, data.Length, new IPEndPoint(IPAddress.Parse("127.0.0.1"), 5000));
-                //}
             }
             catch (Exception ex)
             {
