@@ -1,0 +1,8 @@
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Sender\bin\Debug\UDPServerApp_Sender.exe.config
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Sender\bin\Debug\UDPServerApp_Sender.exe
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Sender\bin\Debug\UDPServerApp_Sender.pdb
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Sender\obj\Debug\UDPServerApp_Sender.exe
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Sender\obj\Debug\UDPServerApp_Sender.pdb
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Sender\obj\Debug\UDPServerApp_Sender.csprojResolveAssemblyReference.cache
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Sender\bin\Debug\UDPServerApp_Listener.exe
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Sender\bin\Debug\UDPServerApp_Listener.pdb

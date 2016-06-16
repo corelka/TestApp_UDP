@@ -1,0 +1,1 @@
+D:\coding\Git_res\UDP_Server_app\UDP_Server_app\bin\Debug\UDP_Server_app.exe.config
