@@ -8,3 +8,6 @@ D:\coding\Git_res\UDP_Server_app\UDP_Server_app\bin\Debug\UDPServerApp_Listener.
 D:\coding\Git_res\UDP_Server_app\UDPServerApp_Listener\bin\Debug\UDPServerApp_Listener.exe.config
 D:\coding\Git_res\UDP_Server_app\UDPServerApp_Listener\obj\Debug\UDPServerApp_Listener.exe
 D:\coding\Git_res\UDP_Server_app\UDPServerApp_Listener\obj\Debug\UDPServerApp_Listener.pdb
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Listener\bin\Debug\UDPServerApp_Listener.exe
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Listener\bin\Debug\UDPServerApp_Listener.pdb
+D:\coding\Git_res\UDP_Server_app\UDPServerApp_Listener\obj\Debug\UDPServerApp_Listener.csprojResolveAssemblyReference.cache
